@@ -43,7 +43,7 @@ List of the tools and libraries I used:
 
 ### How to set up the environment:
 
-git clone https://github.com/yourusername/heart-disease-project.git
+git clone https://github.com/Duncan413/Heart-Disease-Prediction.git
 
 cd heart-disease-project
 
